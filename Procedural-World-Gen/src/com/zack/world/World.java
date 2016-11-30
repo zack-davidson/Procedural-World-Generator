@@ -62,7 +62,6 @@ public class World {
 				tiles[currentIndex] = new WorldTile(x, y, getBlackOrWhite());
 				currentIndex++;
 			}
-			currentIndex++;
 		}
 	}
 
